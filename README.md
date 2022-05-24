@@ -20,4 +20,13 @@ In order to do this I converted all image dataset (about 4000 pictures) into his
 
 ![example_histogram](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/example_histogram.png)
 
+So I decided to take these data points from vertical bars and put them in .csv file.
+- Every column represents one bin
+- Every cell in row represents one value from that bin
+- Every row represents new image
+So let's say we take first cell in this dataset:
+</br>
+![dataset](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/data.png)
+</br>
+and this value tells us that in the first picture on bin with number 0 we have 31604 data points corresponding to that bin.
 
