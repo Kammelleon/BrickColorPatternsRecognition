@@ -9,7 +9,5 @@ A model needs to learn recognizing following color patterns:
 ![barwy_jesieni](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/brick_patterns/barwy_jesieni.png)
 ![gothic](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/brick_patterns/gothic.png)
 ![light](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/brick_patterns/light.png)
-
 ![muszlowy](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/brick_patterns/muszlowy.png)
-
 ![york](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/brick_patterns/york.png)
