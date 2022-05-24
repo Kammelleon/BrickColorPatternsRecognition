@@ -26,7 +26,9 @@ So I decided to take these data points from vertical bars and put them in .csv f
 - Every row represents new image
 So let's say we take first cell in this dataset:
 </br>
+
 ![dataset](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/data.png)
+
 </br>
 and this value tells us that in the first picture on bin with number 0 we have 31604 data points corresponding to that bin.
 
