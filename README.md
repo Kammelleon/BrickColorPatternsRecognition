@@ -19,3 +19,5 @@ In order to do this I converted all image dataset (about 4000 pictures) into his
 </br>
 
 ![example_histogram](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/example_histogram.png)
+
+
