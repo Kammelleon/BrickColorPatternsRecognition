@@ -38,5 +38,8 @@ At this point we can feed our network and shuffle the data using "sample" method
 
 # Results
 Train accuracy: 91%
+
 Validation accuracy: 93%
+
 Test accuracy: 92%
+
