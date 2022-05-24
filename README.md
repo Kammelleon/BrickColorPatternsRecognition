@@ -34,3 +34,9 @@ So let's say we take first cell in this dataset:
 </br>
 and this value tells us that in the first picture on bin with number 0 we have 31604 data points corresponding to that bin.
 
+At this point we can feed our network and shuffle the data using "sample" method from pandas library.
+
+# Results
+Train accuracy: 91%
+Validation accuracy: 93%
+Test accuracy: 92%
