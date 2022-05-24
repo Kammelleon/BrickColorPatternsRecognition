@@ -17,4 +17,5 @@ In order to do this I converted all image dataset (about 4000 pictures) into his
 
 - "A histogram displays numerical data by grouping data into "bins" of equal width. Each bin is plotted as a bar whose height corresponds to how many data points are in that bin."
 </br>
+
 ![example_histogram](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/example_histogram.png)
