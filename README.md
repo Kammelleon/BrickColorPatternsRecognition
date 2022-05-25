@@ -40,7 +40,7 @@ and this value tells us that in the first picture on bin with number 0 we have 3
 At this point we can feed our network and shuffle the data using "sample" method from pandas library.
 
 # Results
-Train accuracy: 91%
+Train accuracy: 92%
 
 Test accuracy: 93%
 
