@@ -18,7 +18,8 @@ In order to do this I converted all image dataset (about 4000 pictures) into his
 - "A histogram displays numerical data by grouping data into "bins" of equal width. Each bin is plotted as a bar whose height corresponds to how many data points are in that bin."
 </br>
 
-![example_histogram](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/example_histogram.png)
+![example_histogram](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/preview_pictures/example_histogram.png)
+
 
 So I decided to take these data points from vertical bars and put them in .csv file.
 - Every column represents one bin
@@ -29,7 +30,9 @@ So I decided to take these data points from vertical bars and put them in .csv f
 So let's say we take first cell in this dataset:
 </br>
 
-![dataset](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/data.png)
+
+![dataset](https://github.com/Kamelleon/DeepLearningBrickRecognition/blob/main/preview_pictures/data.png)
+
 
 </br>
 and this value tells us that in the first picture on bin with number 0 we have 31604 data points corresponding to that bin.
@@ -39,7 +42,5 @@ At this point we can feed our network and shuffle the data using "sample" method
 # Results
 Train accuracy: 91%
 
-Validation accuracy: 93%
-
-Test accuracy: 92%
+Test accuracy: 93%
 
